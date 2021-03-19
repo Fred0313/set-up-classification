@@ -20,9 +20,6 @@ This solution can decide which class of formation a team has from the input of a
 
 ![AC Milan lineup](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ac_milan.svg)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
 This is how you create code examples:
 ```
 def main():
