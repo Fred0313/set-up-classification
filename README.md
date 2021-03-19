@@ -1,30 +1,23 @@
 
 
-# Lineup classification
+# Formations classification
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+What if we at any time can start our football tactics ever ongoing discussion knowing the type of formation?
+This is an attempt to automaticaly classify the formation of a football team provided by a picture of them playing.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+It is often a problem to understand which formation a football team uses at a specific game. Sometimes it even changes between offense and defense.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+This solution can decide which class of formation a team has from the input of a picture. Different classes of formations are 4-3-3, 4-4-2, 3-5-2 etc.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![AC Milan lineup](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ac_milan.svg)
 
 If you need to resize images, you have to use an HTML tag, like this:
@@ -50,8 +43,7 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
+
 [Twitter API](https://developer.twitter.com/en/docs)
 
 | Syntax      | Description |
@@ -61,11 +53,8 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Covering Bandy formations are just behind the corner.
 
 
 ## Acknowledgments
