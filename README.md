@@ -26,7 +26,7 @@ There are several classification methods that could be in use here, stretching f
 Data is hopefully feeded from league websites.
 
 ## What next?
-Covering Bandy formations are just behind the corner.
+Covering Bandy formations are a poseible next step.
 
 
 ## Acknowledgments
