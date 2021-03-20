@@ -30,4 +30,4 @@ Covering Bandy formations are just behind the corner.
 
 
 ## Acknowledgments
-University of Helsinki, Fredrik Heintz, Peltarion, AI Sweden. Thank you for the inspiration!
+University of Helsinki, Reactor, Fredrik Heintz, Peltarion, AI Sweden. Thank you for the inspiration!
