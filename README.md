@@ -16,39 +16,14 @@ It is often a problem to understand which formation a football team uses at a sp
 
 ## How is it used?
 
-This solution can decide which class of formation a team has from the input of a picture. Different classes of formations are 4-3-3, 4-4-2, 3-5-2 etc.
+This solution can decide which class of formation a team has from the input of a picture. Different classes of formations are 4-3-3, 4-4-2, 3-5-2 etc. If you quickly can decide the formation you can then continue your tactical analyze of the game.
 
 ![AC Milan lineup](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ac_milan.svg)
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
 
 ## Data sources and AI methods
-
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
+There are several classification methods that could be in use here, stretching from nearest neighbour to a regression method.
+Data is hopefully feeded from league websites.
 
 ## What next?
 Covering Bandy formations are just behind the corner.
